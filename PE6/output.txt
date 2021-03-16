@@ -1,0 +1,32 @@
+See Image for full context.
+Breakpoint was placed on line 12 with the condition i==20 if true
+
+
+Visual Studio Locals Output:
+
+Name:              Value:
+i                       20
+numberOfRandoms         30
+randomNumber            1776
+
+Console Output:
+Random #0 is : 11146
+Random #1 is : 14947
+Random #2 is : 7144
+Random #3 is : 27419
+Random #4 is : 2151
+Random #5 is : 7493
+Random #6 is : 12309
+Random #7 is : 31834
+Random #8 is : 24225
+Random #9 is : 8955
+Random #10 is : 4877
+Random #11 is : 20325
+Random #12 is : 26847
+Random #13 is : 5212
+Random #14 is : 16345
+Random #15 is : 12920
+Random #16 is : 16006
+Random #17 is : 25867
+Random #18 is : 28190
+Random #19 is : 1776

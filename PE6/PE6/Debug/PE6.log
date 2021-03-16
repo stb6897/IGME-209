@@ -1,0 +1,3 @@
+﻿  PE6.cpp
+C:\Users\Sevan\Desktop\PE6\PE6\PE6.cpp(16,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PE6.vcxproj -> C:\Users\Sevan\Desktop\PE6\Debug\PE6.exe
